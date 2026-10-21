@@ -1,4 +1,4 @@
-FROM magento/magento-cloud-docker-php:8.3-cli-1.4.7
+FROM magento/magento-cloud-docker-php:8.3-cli-1.4.10
 
 ENV MAGENTO_ROOT=/var/www/html
 
